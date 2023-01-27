@@ -108,3 +108,11 @@ const Navigation = () => {
 export default Navigation;
 
 //and thats how you can target specific information to specific components in an app
+
+
+//What are limitaions for context 
+
+/*
+1. not optimized for high frequency changed data if so use redux
+2.its not there to replace props 
+*/
