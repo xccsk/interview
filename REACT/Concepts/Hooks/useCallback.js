@@ -2,8 +2,10 @@
 
 import React,{useCallback} from "react";
 
+const title = "lol"
+
 const dummyfunction = useCallback(()=>{
-    console.log('now its the same')
-},[])
+    console.log(title)
+},[title])
 
 //this array is there for the depenencis in the function that are passed threw state e.g.

@@ -12,3 +12,8 @@ const Dummy = () =>{
 }
 
 export default React.memo(Dummy)
+
+
+//state changes and rerendering 
+
+/*  */
