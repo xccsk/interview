@@ -1,0 +1,1 @@
+// the reducer must be pure no side effects and only sychronos functions you can do this in the component or we wrtie action creator functions 
