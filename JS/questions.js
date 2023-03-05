@@ -87,5 +87,7 @@ JS interview Questions
 //41. Q:What is the difference between while and do-while loops in JavaScript?
 
 //42. Q:What is a promise? Where and how would you use promise?
+// A: A promise is a JS concept that returns a reject and resolve part for e.g. when you make an API request
+
 
 //43. Q:Discuss how you might use Object Oriented Programming principles when coding with JavaScript.
