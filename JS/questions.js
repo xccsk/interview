@@ -13,6 +13,7 @@ JS interview Questions
 //4. Q:What's the difference between a variable that is: null, undefined or undeclared?How would you go about checking for any of these states?
 
 //5. Q:What is a closure, and how/why would you use one?
+//A: closures is a method that you can use vriables passed or defined in a Higher order Function in a lower functions
 
 //6. Q:What language constructions do you use for iterating over object properties and array items?
 
